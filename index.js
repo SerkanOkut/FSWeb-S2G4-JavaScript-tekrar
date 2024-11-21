@@ -145,6 +145,8 @@ for (let [sayi, tekrar] of Object.entries(tekrarSayilari)) {
   }
 }
 console.log("Tekrar eden sayılar:", tekraredensayilar);
+// hallettim
+
 
 
 /*  Bu satırın aşağısındaki kodları lütfen değiştirmeyin  */
@@ -152,7 +154,7 @@ console.log("Tekrar eden sayılar:", tekraredensayilar);
 function sa() {
   console.log("Kodlar çalışıyor");
   return "as";
-}
+} 
 sa();
 module.exports = {
   sa,
