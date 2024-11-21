@@ -146,7 +146,7 @@ for (let [sayi, tekrar] of Object.entries(tekrarSayilari)) {
 }
 console.log("Tekrar eden sayılar:", tekraredensayilar);
 // hallettim
-
+// artık görevim kabul edilsin lütfen :(
 
 
 /*  Bu satırın aşağısındaki kodları lütfen değiştirmeyin  */
